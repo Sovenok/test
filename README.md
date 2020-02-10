@@ -1,1 +1,1 @@
-https://sovenok.github.io/test/gh-pages/index.html
+https://sovenok.github.io/test/index.html
