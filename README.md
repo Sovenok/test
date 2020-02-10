@@ -1,1 +1,1 @@
-https://sovenok.github.io/rsschool-cv-html/index.html
+https://sovenok.github.io/test/rsschool-cv-html/index.html
